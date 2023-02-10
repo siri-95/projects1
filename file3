@@ -1,0 +1,4 @@
+git init
+git add file3
+git commit -m " addedd msgs "
+commited to the file remote 
